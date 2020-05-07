@@ -1,0 +1,37 @@
+﻿Name,Material Type,EEC,ECC,Assumption
+Std Wood 6inch,Material,7.4,0.2,Softwood
+AC02 Acoustic Ceiling,Material,37,2.7,Mineral Fibre Tile (Roofing)
+F07 25mm stucco,Material,1.8,0.13,Plaster General
+F08 Metal surface,Material,23.5,2.03,Galvanized Steel
+F08 Metal roof surface,Material,23.5,2.03,Galvanized Steel
+F12 Asphalt shingles,Material,11.3,0.3,Miscellaneous - Shingle
+F13 Built-up roofing,Material,5,0.086,"Asphalt, 8% binder content"
+G01 13mm gypsum board,Material,6.75,0.39,Plasterboard
+G01 16mm gypsum board,Material,6.75,0.39,Plasterboard
+G02 16mm plywood,Material,15,0.2,Plywood
+M14 150mm heavyweight concrete roof,Material,0.78,0.113,25/30 MPa UK weighted typical
+100mm Normalweight concrete wall,Material,0.78,0.113,25/30 MPa UK weighted typical
+200mm Normalweight concrete wall,Material,0.78,0.113,25/30 MPa UK weighted typical
+100mm Normalweight concrete floor,Material,0.78,0.113,25/30 MPa UK weighted typical
+150mm Normalweight concrete floor,Material,0.78,0.113,25/30 MPa UK weighted typical
+200mm Normalweight concrete floor,Material,0.78,0.113,25/30 MPa UK weighted typical
+M10 200mm concrete block wall,Material,0.59,0.063,8MPa Block
+M10 200mm concrete block basement wall,Material,0.59,0.063,8MPa Block
+Gypsum or plaster board - 9.5mm,Material,6.75,0.39,Plasterboard
+Bulk Storage Products Material,Material,NULL,NULL,NULL
+Steel Frame/Cavity,Material,NULL,NULL,NULL
+Interior Wall Addi Insul,Material,45,1.86,General Insulation
+Opaque Door panel_con,Material_NoMass,10,0.31,General Timber
+Overhead Door_con Panel,Material_NoMass,10,0.31,General Timber
+CP02 CARPET PAD,Material_NoMass,74,3.9,General Carpet
+Air_Wall_Material,Material_NoMass,NULL,NULL,NULL
+Nonres_Roof_Insulation,Material_NoMass,45,1.86,General Insulation
+Res_Roof_Insulation,Material_NoMass,45,1.86,General Insulation
+Semiheated_Roof_Insulation,Material_NoMass,45,1.86,General Insulation
+Nonres_Exterior_Wall_Insulation,Material_NoMass,45,1.86,General Insulation
+Res_Exterior_Wall_Insulation,Material_NoMass,45,1.86,General Insulation
+Semiheated_Exterior_Wall_Insulation,Material_NoMass,45,1.86,General Insulation
+Nonres_Floor_Insulation,Material_NoMass,45,1.86,General Insulation
+Res_Floor_Insulation,Material_NoMass,45,1.86,General Insulation
+Semiheated_Floor_Insulation,Material_NoMass,45,1.86,General Insulation
+Std Opaque Door Panel,Material_NoMass,10,0.31,General Timber

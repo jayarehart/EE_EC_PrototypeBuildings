@@ -1,0 +1,103 @@
+﻿Construction Name,Outside Layer,Layer 2,Layer 3,Layer 4,Layer 5,Material Type,EEC,ECC,Assumption
+Window_U_1.22_SHGC_0.61,GREEN 6MM,,,,,Fenestration,198.6,10.1,Single Pane
+Window_U_1.22_SHGC_0.39,REF B CLEAR HI 6MM,,,,,Fenestration,198.6,10.1,Single Pane
+Window_U_1.22_SHGC_0.34,REF C CLEAR HI 6MM,,,,,Fenestration,198.6,10.1,Single Pane
+Window_U_1.22_SHGC_0.25,ECREF-1 COLORED 6MM,,,,,Fenestration,198.6,10.1,Single Pane
+Window_U_0.72_SHGC_0.25,REF B TINT MID 6MM,,,,,Fenestration,3798.6,193.8,Double Pane
+Window_U_0.62_SHGC_0.39,REF D CLEAR 6MM,AIR 6MM,CLEAR 6MM,,,Fenestration,3798.6,193.8,Double Pane
+Window_U_0.57_SHGC_0.39,REF D CLEAR 6MM,AIR 6MM,CLEAR 6MM,,,Fenestration,3798.6,193.8,Double Pane
+Window_U_0.65_SHGC_0.25,REF C CLEAR HI 6MM,AIR 6MM,CLEAR 6MM,,,Fenestration,3798.6,193.8,Double Pane
+Window_U_0.62_SHGC_0.25,REF C CLEAR HI 6MM,AIR 6MM,CLEAR 6MM,,,Fenestration,3798.6,193.8,Double Pane
+Window_U_0.57_SHGC_0.25,REF C CLEAR HI 6MM,AIR 6MM,CLEAR 6MM,,,Fenestration,3798.6,193.8,Double Pane
+Window_U_0.62_SHGC_0.49,BLUE 6MM,AIR 6MM,CLEAR 6MM,,,Fenestration,3798.6,193.8,Double Pane
+Window_U_0.57_SHGC_0.49,BLUE 6MM,AIR 6MM,CLEAR 6MM,,,Fenestration,3798.6,193.8,Double Pane
+Window_U_0.52_SHGC_0.40,REF D CLEAR 6MM,AIR 13MM,CLEAR 6MM,,,Fenestration,3798.6,193.8,Double Pane
+Window_U_0.48_SHGC_0.40,REF D CLEAR 6MM,AIR 13MM,CLEAR 6MM,,,Fenestration,3798.6,193.8,Double Pane
+Window_U_0.42_SHGC_0.45,REF D CLEAR 6MM,ARGON 13MM,CLEAR 6MM,,,Fenestration,3798.6,193.8,Double Pane
+Window_U_0.46_SHGC_0.45,GREY 6MM,AIR 13MM,CLEAR 6MM,,,Fenestration,3798.6,193.8,Double Pane
+Window_U_0.42_SHGC_0.40,LoE TINT 6MM,AIR 6MM,CLEAR 6MM,,,Fenestration,3798.6,193.8,Double Pane
+Window_U_0.43_SHGC_0.26,REF B CLEAR HI 6MM,AIR 13MM,CLEAR 6MM,,,Fenestration,3798.6,193.8,Double Pane
+Window_U_0.44_SHGC_0.26,REF B CLEAR HI 6MM,AIR 13MM,CLEAR 6MM,,,Fenestration,3798.6,193.8,Double Pane
+Window_U_0.42_SHGC_0.35,LoE TINT 6MM,AIR 6MM,CLEAR 6MM,,,Fenestration,3798.6,193.8,Double Pane
+Window_U_0.33_SHGC_0.40,LoE TINT 6MM,AIR 13MM,CLEAR 6MM,,,Fenestration,3798.6,193.8,Double Pane
+Window_U_0.34_SHGC_0.40,LoE TINT 6MM,AIR 13MM,CLEAR 6MM,,,Fenestration,3798.6,193.8,Double Pane
+Window_U_0.35_SHGC_0.35,LoE TINT 6MM,AIR 13MM,CLEAR 6MM,,,Fenestration,3798.6,193.8,Double Pane
+Window_U_0.55_SHGC_0.31,REF D TINT 6MM,AIR 6MM,CLEAR 6MM,,,Fenestration,3798.6,193.8,Double Pane
+Window_U_0.43_SHGC_0.29,LoE SPEC SEL TINT 6MM,AIR 6MM,CLEAR 6MM,,,Fenestration,3798.6,193.8,Double Pane
+Window_U_0.34_SHGC_0.45,PYR B CLEAR 6MM,AIR 13MM,CLEAR 6MM,,,Fenestration,3798.6,193.8,Double Pane
+Window_U_0.56_SHGC_0.35,REF D TINT 6MM,AIR 6MM,CLEAR 6MM,,,Fenestration,3798.6,193.8,Double Pane
+Window_U_0.45_SHGC_0.31,REF B CLEAR HI 6MM,AIR 13MM,CLEAR 6MM,,,Fenestration,3798.6,193.8,Double Pane
+Window_U_0.33_SHGC_0.45,CLEAR 3MM,AIR 6MM,COATED POLY-77,AIR 6MM,CLEAR 3MM,Fenestration,3798.6,193.8,Double Pane
+Window_U_0.38_SHGC_0.26,REF B TINT HI 6MM,ARGON 13MM,CLEAR 6MM,,,Fenestration,3798.6,193.8,Double Pane
+Window_U_0.25_SHGC_0.40,LoE TINT 6MM,ARGON 13MM,CLEAR 6MM,,,Fenestration,3798.6,193.8,Double Pane
+Window_U_0.35_SHGC_0.26,REF C CLEAR MID 6MM,ARGON 13MM,CLEAR 6MM,,,Fenestration,3798.6,193.8,Double Pane
+Window_U_0.54_SHGC_0.27,REF C CLEAR HI 6MM,AIR 6MM,CLEAR 6MM,,,Fenestration,3798.6,193.8,Double Pane
+Window_U_0.54_SHGC_0.18,REF A TINT MID 6MM,AIR 6MM,CLEAR 6MM,,,Fenestration,3798.6,193.8,Double Pane
+Window_U_0.54_SHGC_0.13,REF A CLEAR LO 6MM,AIR 13MM,CLEAR 6MM,,,Fenestration,3798.6,193.8,Double Pane
+Window_U_0.33_SHGC_0.11,ECREF-2 COLORED 6MM,AIR 13MM,LoE SPEC SEL CLEAR 6MM Rev,,,Fenestration,3798.6,193.8,Double Pane
+Window_U_0.29_SHGC_0.22,BRONZE 6MM,AIR 6MM,COATED POLY-55,AIR 6MM,CLEAR 6MM,Fenestration,3798.6,193.8,Double Pane
+Window_U_0.29_SHGC_0.17,ECABS-2 COLORED 6MM,AIR 13MM,CLEAR 6MM,,,Fenestration,3798.6,193.8,Double Pane
+Window_U_0.29_SHGC_0.11,ECREF-2 COLORED 6MM,AIR 13MM,LoE SPEC SEL CLEAR 6MM Rev,,,Fenestration,3798.6,193.8,Double Pane
+Window_U_0.24_SHGC_0.23,LoE SPEC SEL TINT 6MM,ARGON 13MM,CLEAR 6MM,,,Fenestration,3798.6,193.8,Double Pane
+Window_U_0.24_SHGC_0.16,ECABS-2 COLORED 6MM,ARGON 13MM,CLEAR 6MM,,,Fenestration,3798.6,193.8,Double Pane
+Window_U_0.24_SHGC_0.11,ECABS-2 COLORED 6MM,ARGON 13MM,LoE SPEC SEL CLEAR 6MM Rev,,,Fenestration,3798.6,193.8,Double Pane
+Window_U_0.19_SHGC_0.20,BRONZE 6MM,AIR 13MM,COATED POLY-55,AIR 13MM,CLEAR 6MM,Fenestration,3798.6,193.8,Double Pane
+Window_U_0.71_SHGC_0.25,REF C CLEAR HI 6MM,AIR 6MM,CLEAR 6MM,,,Fenestration,3798.6,193.8,Double Pane
+Window_U_0.38_SHGC_0.30,REF B CLEAR HI 6MM,ARGON 13MM,CLEAR 6MM,,,Fenestration,3798.6,193.8,Double Pane
+Window_U_0.36_SHGC_0.35,LoE SPEC SEL TINT 6MM,AIR 6MM,CLEAR 6MM,,,Fenestration,3798.6,193.8,Double Pane
+Window_U_0.30_SHGC_0.40,LoE TINT 6MM,AIR 13MM,CLEAR 6MM,,,Fenestration,3798.6,193.8,Double Pane
+Window_U_0.45_SHGC_0.27,Glass_12116_LayerAvg,Air 13MM,Glass_102_LayerAvg,,,Fenestration,3798.6,193.8,Double Pane
+Window_U_0.39_SHGC_0.36,LoE TINT 6MM,AIR 6MM,CLEAR 6MM,,,Fenestration,3798.6,193.8,Double Pane
+Window_U_1.98_SHGC_0.36,REF B CLEAR HI 6MM,,,,,Fenestration,#N/A,#N/A,NA
+Window_U_1.17_SHGC_0.39,REF B CLEAR HI 6MM,,,,,Fenestration,198.6,10.1,Single Pane
+Window_U_1.98_SHGC_0.61,GREEN 6MM,,,,,Fenestration,198.6,10.1,Single Pane
+Window_U_1.17_SHGC_0.49,REF D CLEAR 6MM,,,,,Fenestration,198.6,10.1,Single Pane
+Window_U_1.17_SHGC_0.68,GREEN 3MM,,,,,Fenestration,198.6,10.1,Single Pane
+Window_U_0.98_SHGC_0.45,REF B CLEAR HI 6MM,,,,,Fenestration,198.6,10.1,Single Pane
+Window_U_0.98_SHGC_0.68,REF B CLEAR HI 6MM,,,,,Fenestration,198.6,10.1,Single Pane
+Window_U_0.88_SHGC_0.16,REF A CLEAR LO 6MM,,,,,Fenestration,198.6,10.1,Single Pane
+Window_U_0.88_SHGC_0.27,ECREF-1 COLORED 6MM,,,,,Fenestration,198.6,10.1,Single Pane
+Window_U_0.52_SHGC_0.22,REF B CLEAR LO 6MM,AIR 6MM,CLEAR 6MM,,,Fenestration,3798.6,193.8,Double Pane
+Window_U_0.44_SHGC_0.20,REF B TINT HI 6MM,AIR 13MM,CLEAR 6MM,,,Fenestration,3798.6,193.8,Double Pane
+Window_U_0.39_SHGC_0.38,Theoretical Glass 297,,,,,Fenestration,#N/A,#N/A,NA
+Window_U_0.39_SHGC_0.32,Theoretical Glass 347,,,,,Fenestration,#N/A,#N/A,NA
+Window_U_0.75_SHGC_0.72,PYR B CLEAR 6MM,,,,,Fenestration,198.6,10.1,Single Pane
+Window_U_0.67_SHGC_0.77,PYR B CLEAR 3MM,,,,,Fenestration,198.6,10.1,Single Pane
+Window_U_0.56_SHGC_0.76,CLEAR 3MM,AIR 6MM,CLEAR 3MM,,,Fenestration,3798.6,193.8,Double Pane
+Window_U_0.40_SHGC_0.43,LoE SPEC SEL CLEAR 3MM,AIR 6MM,CLEAR 6MM,,,Fenestration,3798.6,193.8,Double Pane
+Window_U_0.40_SHGC_0.45,ECABS-2 BLEACHED 6MM,AIR 6MM,LoE SPEC SEL CLEAR 6MM Rev,,,Fenestration,3798.6,193.8,Double Pane
+Window_U_0.60_SHGC_0.25,Glass_2175_LayerAvg,Gap_1_W_0_0025,Glass_2022F_LayerAvg,,,Fenestration,3798.6,193.8,Double Pane
+Window_U_0.55_SHGC_0.25,Glass_2175_LayerAvg,Gap_1_W_0_0032,Glass_2022F_LayerAvg,,,Fenestration,3798.6,193.8,Double Pane
+Window_U_0.50_SHGC_0.25,Glass_2175_LayerAvg,Gap_1_W_0_0042,Glass_2022F_LayerAvg,,,Fenestration,3798.6,193.8,Double Pane
+Window_U_0.47_SHGC_0.40,Glass_2052_LayerAvg,Gap_1_W_0_0043,Glass_2010F_LayerAvg,,,Fenestration,3798.6,193.8,Double Pane
+Window_U_0.75_SHGC_0.35,Glass_2052_LayerAvg,Gap_1_W_0_0018,Glass_2027F_LayerAvg,,,Fenestration,3798.6,193.8,Double Pane
+Window_U_0.65_SHGC_0.35,Glass_2052_LayerAvg,Gap_1_W_0_0024,Glass_2027F_LayerAvg,,,Fenestration,3798.6,193.8,Double Pane
+Window_U_0.55_SHGC_0.35,Glass_2052_LayerAvg,Gap_1_W_0_0038,Glass_2027F_LayerAvg,,,Fenestration,3798.6,193.8,Double Pane
+Window_U_0.50_SHGC_0.40,Glass_2052_LayerAvg,Gap_1_W_0_0038,Glass_2027F_LayerAvg,,,Fenestration,3798.6,193.8,Double Pane
+Window_U_1.16_SHGC_0.25,ECREF-1 COLORED 6MM,,,,,Fenestration,198.6,10.1,Single Pane
+Window_U_1.08_SHGC_0.25,ECREF-1 COLORED 6MM,,,,,Fenestration,198.6,10.1,Single Pane
+Window_U_0.29_SHGC_0.45,ECREF-2 BLEACHED 6MM,AIR 13MM,LoE SPEC SEL CLEAR 6MM Rev,,,Fenestration,3798.6,193.8,Double Pane
+Window_U_1.60_SHGC_0.40,REF B CLEAR HI 6MM,,,,,Fenestration,198.6,10.1,Single Pane
+Window_U_1.05_SHGC_0.40,REF B CLEAR HI 6MM,,,,,Fenestration,198.6,10.1,Single Pane
+Window_U_0.90_SHGC_0.40,REF B CLEAR HI 6MM,,,,,Fenestration,198.6,10.1,Single Pane
+Window_U_0.9_SHGC_0.6,REF B CLEAR HI 6MM,,,,,Fenestration,198.6,10.1,Single Pane
+Window_U_0.75_SHGC_0.6,GREY 3MM,AIR 6MM,CLEAR 3MM,,,Fenestration,3798.6,193.8,Double Pane
+Window_U_0.85_SHGC_0.78,PYR A CLEAR 3MM,,,,,Fenestration,198.6,10.1,Single Pane
+Window_U_1.30_SHGC_0.68,GREEN 3MM,,,,,Fenestration,198.6,10.1,Single Pane
+Window_U_1.15_SHGC_0.68,GREEN 3MM,,,,,Fenestration,198.6,10.1,Single Pane
+Window_U_1.80_SHGC_0.36,REF B CLEAR HI 6MM,,,,,Fenestration,198.6,10.1,Single Pane
+Window_U_1.70_SHGC_0.36,REF B CLEAR HI 6MM,,,,,Fenestration,198.6,10.1,Single Pane
+Window_U_0.37_SHGC_0.45,Glass_4321_LayerAvg,Gap_1_W_0_0127,Glass_102_LayerAvg,,,Fenestration,3798.6,193.8,Double Pane
+Window_U_0.41_SHGC_0.38,Glass_8652_LayerAvg,Gap_1_W_0_0127,Glass_102_LayerAvg,,,Fenestration,3798.6,193.8,Double Pane
+Window_U_0.40_SHGC_0.4,Glass_8652_LayerAvg,Gap_1_W_0_0127,Glass_102_LayerAvg,,,Fenestration,3798.6,193.8,Double Pane
+Window_U_0.40_SHGC_0.38,Glass_8652_LayerAvg,Gap_1_W_0_0127,Glass_102_LayerAvg,,,Fenestration,3798.6,193.8,Double Pane
+Window_U_0.39_SHGC_0.40,Glass_282_LayerAvg,Gap_1_W_0_0127,Glass_102_LayerAvg,,,Fenestration,3798.6,193.8,Double Pane
+Window_U_0.45_SHGC_0.38,Glass_2532_LayerAvg,Gap_1_W_0_0127,Glass_102_LayerAvg,,,Fenestration,3798.6,193.8,Double Pane
+Window_U_0.44_SHGC_0.40,Glass_9731_LayerAvg,Gap_9_W_0_0127,Glass_102_LayerAvg,,,Fenestration,3798.6,193.8,Double Pane
+Window_U_0.38_SHGC_0.36,Glass_2531_LayerAvg,Gap_9_W_0_0127,Glass_102_LayerAvg,,,Fenestration,3798.6,193.8,Double Pane
+Window_U_0.38_SHGC_0.41,Glass_4313_LayerAvg,Gap_1_W_0_0127,Glass_102_LayerAvg,,,Fenestration,3798.6,193.8,Double Pane
+Window_U_0.51_SHGC_0.25,Glass_1576_LayerAvg,Gap_1_W_0_0090,Glass_102_LayerAvg,,,Fenestration,3798.6,193.8,Double Pane
+Window_U_0.54_SHGC_0.25,Glass_1576_LayerAvg,Gap_1_W_0_0070,Glass_102_LayerAvg,,,Fenestration,3798.6,193.8,Double Pane
+Window_U_0.56_SHGC_0.25,Glass_1576_LayerAvg,Gap_1_W_0_0060,Glass_102_LayerAvg,,,Fenestration,3798.6,193.8,Double Pane
+Window_U_0.59_SHGC_0.25,Glass_1576_LayerAvg,Gap_1_W_0_0048,Glass_102_LayerAvg,,,Fenestration,3798.6,193.8,Double Pane
+Window_U_0.58_SHGC_0.25,Glass_1576_LayerAvg,Gap_1_W_0_0052,Glass_102_LayerAvg,,,Fenestration,3798.6,193.8,Double Pane

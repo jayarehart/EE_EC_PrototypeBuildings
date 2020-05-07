@@ -1,0 +1,16 @@
+﻿Name,Density,Thickness
+Interior Wall Addi Insul,12,0.15
+Opaque Door panel_con,510,0.044
+Overhead Door_con Panel,510,0.044
+CP02 CARPET PAD,110,0.00635
+Air_Wall_Material,NULL,NULL
+Nonres_Roof_Insulation,12,0.15
+Res_Roof_Insulation,12,0.15
+Semiheated_Roof_Insulation,12,0.15
+Nonres_Exterior_Wall_Insulation,12,0.15
+Res_Exterior_Wall_Insulation,12,0.15
+Semiheated_Exterior_Wall_Insulation,12,0.15
+Nonres_Floor_Insulation,12,0.15
+Res_Floor_Insulation,12,0.15
+Semiheated_Floor_Insulation,12,0.15
+Std Opaque Door Panel,510,0.044
